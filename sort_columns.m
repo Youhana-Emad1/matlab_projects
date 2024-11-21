@@ -1,9 +1,3 @@
-function [ output_args ] = Untitled6( input_args )
-%UNTITLED6 Summary of this function goes here
-%   Detailed explanation goes here
-
-
-end
 %9-Write a matlab function file to receive a matrix as input and sort (in
 % ascending order) the elements of each column (without using matlab built in function)
 % sort_columns.m  
